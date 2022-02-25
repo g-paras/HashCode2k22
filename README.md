@@ -1,0 +1,1 @@
+# Google HashCode Qualification Round 2022
